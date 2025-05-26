@@ -121,7 +121,7 @@ h1 {
     font-size: 4rem;
 }
 
-.fisica-container {
+.fisica-conteiner {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
