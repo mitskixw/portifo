@@ -4,15 +4,15 @@
     box-sizing: border-box;
 }
 
-:root {
+:root{
     --preto: #000000;
-    --marinho: #493D9E;
-    --amarelo-claro: #FFF2AF;
-    --roxo-claro: #B2A5FF;
-    --verde: #99BC85;
-    --azul-claro: #E4EFE7;
-    --branco: #FFFFFF;
-    --marron-claro: #FAF1E6;
+    --marinho: #f9bdff;
+    --amarelo-claro:#FFF2AF;
+    --roxo-claro:#B2A5FF;
+    --verde: #e708b7;
+    --rosa: #ffd6f5;
+    --branco: #ffbfe6;
+    --marron-claro: #ffcef7;
 }
 
 body {
