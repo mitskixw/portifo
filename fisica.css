@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 :root{
     --preto: #000000;
     --marinho: #f9bdff;
@@ -13,7 +12,6 @@
     --rosa: #ffd6f5;
     --branco: #ffbfe6;
     --marron-claro: #ffcef7;
-}
 }
 
 body {
@@ -123,7 +121,7 @@ h1 {
     font-size: 4rem;
 }
 
-.biologia-container {
+.fisica-container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
