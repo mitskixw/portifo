@@ -3,11 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 :root{
     --preto: #000000;
     --marinho: #f9bdff;
     --amarelo-claro:#FFF2AF;
-    --roxo-claro:#fff1a5;
+    --roxo-claro:#B2A5FF;
     --verde: #e708b7;
     --rosa: #ffd6f5;
     --branco: #ffbfe6;
@@ -45,7 +46,7 @@ header {
     background-color: var(--preto);
     border: none;
     padding: 1.05rem 1.5rem;
-    color: var(--roxo-claro);
+    color: var(--amarelo-claro);
 }
 
 #menu-toggle {
@@ -55,7 +56,7 @@ header {
 .lista-vertical {
     display: none;
     position: absolute;
-    background-color: var(--roxo-claro);
+    background-color: var(--amarelo-claro);
     box-shadow: 0 2px 5px var(--marinho);
     min-width: 190px;
     z-index: 1;
@@ -121,7 +122,7 @@ h1 {
     font-size: 4rem;
 }
 
-.matematica-conteiner {
+.matematica-container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
