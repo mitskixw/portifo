@@ -219,3 +219,9 @@ h1 {
     color: var(--marinho);
     margin-bottom: 5px;
 }
+footer {
+background-color: #f9bdff;
+font-size: large;
+text-align: center;
+color: #FFF2AF;
+}
