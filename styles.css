@@ -6,11 +6,11 @@
 
 :root{
     --preto: #000000;
-    --marinho: #d500e9;
+    --marinho: #f9bdff;
     --amarelo-claro:#FFF2AF;
     --roxo-claro:#B2A5FF;
-    --verde: #ff00c8;
-    --rosa: #ffa3eb;
+    --verde: #e708b7;
+    --rosa: #ffd6f5;
     --branco: #ffbfe6;
     --marron-claro: #ffcef7;
 }
@@ -76,7 +76,7 @@ main {
 
 
 footer {
-background-color: #ff00ea;
+background-color: #f9bdff;
 font-size: large;
 text-align: center;
 color: #FFF2AF;
