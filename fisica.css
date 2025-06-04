@@ -5,14 +5,15 @@
 }
 :root{
     --preto: #000000;
-    --marinho: #f9bdff;
+    --marinho:#f052c0;
     --amarelo-claro:#FFF2AF;
-    --roxo-claro:#fff1a5;
+    --roxo-claro:#f3c5ff;
     --verde: #e708b7;
     --rosa: #ffd6f5;
     --branco: #ffbfe6;
     --marron-claro: #ffcef7;
 }
+
 
 .playwrite-hu- {
   font-family: "Playwrite HU", cursive;
@@ -50,10 +51,10 @@ header {
     cursor: pointer;
     font-size: 2rem;
     background: none;
-    background-color: var(--preto);
+    background-color: var(--marron-claro);
     border: none;
     padding: 1.05rem 1.5rem;
-    color: var(--roxo-claro);
+    color: var(--verde);
 }
 
 #menu-toggle {

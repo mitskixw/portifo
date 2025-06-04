@@ -6,14 +6,15 @@
 
 :root{
     --preto: #000000;
-    --marinho: #f9bdff;
+    --marinho:#f052c0;
     --amarelo-claro:#FFF2AF;
-    --roxo-claro:#B2A5FF;
+    --roxo-claro:#f3c5ff;
     --verde: #e708b7;
     --rosa: #ffd6f5;
     --branco: #ffbfe6;
     --marron-claro: #ffcef7;
 }
+
 
 .playwrite-hu- {
   font-family: "Playwrite HU", cursive;
