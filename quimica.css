@@ -358,3 +358,9 @@ footer {
     opacity: 1;
     max-height: 500px;
 }
+footer {
+background-color: #f9bdff;
+font-size: large;
+text-align: center;
+color: #FFF2AF;
+}
