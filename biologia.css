@@ -6,13 +6,13 @@
 
 :root{
     --preto: #000000;
-    --marinho:#f052c0;
+    --marinho:#b3f052;
     --amarelo-claro:#FFF2AF;
-    --roxo-claro:#f3c5ff;
-    --verde: #e708b7;
-    --rosa: #ffd6f5;
-    --branco: #ffbfe6;
-    --marron-claro: #ffcef7;
+    --roxo-claro:#c5ffc5;
+    --verde: #86e708;
+    --rosa: #e6ffd6;
+    --branco: #d1ffbf;
+    --marron-claro: #ceffdd;
 }
 
 .playwrite-hu- {
